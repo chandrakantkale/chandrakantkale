@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chandrakant kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrakant kale" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/chandrakant kale](https://www.linkedin.com/in/chandrakant-kale-50a60b309/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrakant kale" height="30" width="40" /></a>
 <a href="https://instagram.com/chandu_kale__02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandu_kale__02" height="30" width="40" /></a>
 
 
