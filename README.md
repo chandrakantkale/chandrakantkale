@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandrakantkale" alt="chandrakantkale" /></a> </p>
 
-- 🌱 I’m currently learning **Web Devlopment**
+- 🌱 I’m currently learning **mern stack**
 
 - 📫 How to reach me **chandrakantkale330@gmail.com**
 
